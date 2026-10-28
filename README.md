@@ -8,3 +8,5 @@ work index.
 - `scripts/check_index.py` lints the index format.
 
 See the header of the index file for its column order and sort rule.
+
+Lint: `make lint` before opening a PR.
